@@ -1,2 +1,3 @@
-# Multi-Agent-Intelligent-Hospitality-Orchestration-System
-To design and implement a suite of interoperable AI agents that collectively manage guest interactions, operational logistics, resource allocation, and real-time feedback, resulting in a fully automated, adaptive, and data-driven hospitality environment.
+# SwasthAI - Multi-Agent Intelligent Healthcare Diagnostic and Advisory System
+Project Overview:
+To design and implement a comprehensive suite of interoperable AI agents that collectively manage patient health assessment, diagnostic analysis, medical imaging interpretation, and clinical decision support, resulting in a fully automated, adaptive, and evidence-based healthcare diagnostic environment.
